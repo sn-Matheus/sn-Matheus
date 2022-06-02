@@ -27,7 +27,7 @@
 <br/>
 
 <a href="https://github.com/sn-Matheus">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sn-Matheus&theme=dracula&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sn-Matheus&theme=highcontrast" />
 </a>
 
 <br/>
