@@ -34,6 +34,6 @@
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
-[![Linkedin: Matheus Nunes](https://img.shields.io/badge/-Matheus-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](www.linkedin.com/in/matheus-silva-nunes)
+[![Linkedin: Matheus Nunes](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/matheus-silva-nunes)]
 [![sn-Matheus](https://img.shields.io/badge/-snmatheus9147@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:snmatheus9147@gmail.com)
 [![GitHub MatheusNunes]( https://img.shields.io/github/followers/sn-Matheus?label=follow&style=social)](https://github.com/sn-Matheus)
