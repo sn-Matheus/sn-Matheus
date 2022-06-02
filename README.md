@@ -26,7 +26,7 @@
 
 <br/>
 
-<a href="https://github.com/VanessaSwerts">
+<a href="https://github.com/sn-Matheus">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VanessaSwerts&theme=dracula&show_icons=true" />
 </a>
 
@@ -36,4 +36,4 @@
 
 [![Linkedin: SEU NOME](https://img.shields.io/badge/-USERNAME-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](LINK-DO-SEU-LINKEDIN)
 [![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:SEU-EMAIL)
-[![GitHub SEU NOME]( https://img.shields.io/github/followers/VanessaSwerts?label=follow&style=social)](LINK-DO-SEU-GITHUB)
+[![GitHub MatheusNunes]( https://img.shields.io/github/followers/VanessaSwerts?label=follow&style=social)](https://github.com/sn-Matheus)
