@@ -4,6 +4,18 @@
 - 🎓 &nbsp; Studying **Analysis and systems development** in <a href="https://www.unicesumar.edu.br/home/">Unicesumar</a>.
 - 🌱 &nbsp; Learning more about **CSS3, HTML5, JavaScript, JAVA, PHP, C#, Python, React, among others**.
 
+<p align="center">
+  <a href="https://github.com/sn-Matheus">
+    <img
+      align="center"
+      src="https://github-profile-trophy.vercel.app/?username=sn-Matheus&theme=onedark&no-frame=true&row=1&&margin-w=20&no-bg=true"
+    />
+  </a>
+</a>
+</p>
+
+#
+
 <h3> :rocket: &nbsp;My Skills </h3>
 
 **Applications and Data**
@@ -16,6 +28,7 @@
   ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   
+  
 
 **Development Tools**
 
@@ -25,13 +38,14 @@
 
 <br/>
 
-[![sn-Matheus](https://github-readme-stats.vercel.app/api?username=sn-Matheus&theme=highcontrast)](https://github.com/sn-Matheus/)
-[![sn-Matheus](https://github-readme-stats.vercel.app/api/top-langs/?username=sn-Matheus&hide=html&layout=compact&theme=highcontrast)](https://github.com/sn-Matheus)
+[![sn-Matheus](https://github-readme-stats.vercel.app/api/top-langs/?username=sn-Matheus&hide=html&layout=compact&theme=radical)](https://github.com/sn-Matheus)
 
 <br/>
 
-<h3> :earth_americas: &nbsp;Where you find me: </h3> 
+#
 
-[![Linkedin: Matheus Nunes](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-silva-nunes/)](https://www.linkedin.com/in/matheus-silva-nunes/)
-[![sn-Matheus](https://img.shields.io/badge/-snmatheus9147@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:snmatheus9147@gmail.com)
-[![GitHub MatheusNunes]( https://img.shields.io/github/followers/sn-Matheus?label=follow&style=social)](https://github.com/sn-Matheus)
+<h3> :earth_americas: &nbsp;Where to contact me: </h3> 
+
+[![Linkedin: sn-Matheus](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-silva-nunes/)](https://www.linkedin.com/in/matheus-silva-nunes/)
+[![Gmail: sn-Matheus](https://img.shields.io/badge/-Gmail-8B0000?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snmatheus9147@gmail.com)](mailto:snmatheus9147@gmail.com)
+[![GitHub: sn-Matheus]( https://img.shields.io/github/followers/sn-Matheus?label=GitHub&style=social)](https://github.com/sn-Matheus)
