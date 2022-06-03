@@ -32,7 +32,7 @@
 
 <br/>
 
-<h3> :earth_americas: &nbsp;Where you finde me: </h3> 
+<h3> :earth_americas: &nbsp;Where you find me: </h3> 
 
 [![Linkedin: Matheus Nunes](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-silva-nunes/)](https://www.linkedin.com/in/matheus-silva-nunes/)
 [![sn-Matheus](https://img.shields.io/badge/-snmatheus9147@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:snmatheus9147@gmail.com)
