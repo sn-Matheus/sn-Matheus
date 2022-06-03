@@ -14,7 +14,6 @@
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
-  ![C#](https://img.shields.io/badge/-Csharp-333333?style=flat&logo=csharp)
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   
 
