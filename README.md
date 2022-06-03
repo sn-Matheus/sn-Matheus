@@ -1,4 +1,4 @@
-<h3> 🦹‍♂️: &nbsp;Sobre mim </h3>
+<h3> 🦹‍♂️: &nbsp;About Me</h3>
 
 - 👀 &nbsp; Exploring new technologies and developing software solutions.
 - 🎓 &nbsp; Studying **Analysis and systems development** in <a href="https://www.unicesumar.edu.br/home/">Unicesumar</a>.
@@ -26,13 +26,13 @@
 
 <br/>
 
-<a href="https://github.com/sn-Matheus">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sn-Matheus&theme=highcontrast" />
-</a>
+[![sn-Matheus](https://github-readme-stats.vercel.app/api?username=sn-Matheus&theme=highcontrast)](https://github.com/sn-Matheus/)
+
+[![sn-Matheus](https://github-readme-stats.vercel.app/api/top-langs/?username=sn-Matheus&hide=html&layout=compact&theme=highcontrast)](https://github.com/sn-Matheus)
 
 <br/>
 
-<h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
+<h3> :earth_americas: &nbsp;Where you finde me: </h3> 
 
 [![Linkedin: Matheus Nunes](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-silva-nunes/)](https://www.linkedin.com/in/matheus-silva-nunes/)
 [![sn-Matheus](https://img.shields.io/badge/-snmatheus9147@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:snmatheus9147@gmail.com)
