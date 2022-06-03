@@ -27,7 +27,6 @@
 <br/>
 
 [![sn-Matheus](https://github-readme-stats.vercel.app/api?username=sn-Matheus&theme=highcontrast)](https://github.com/sn-Matheus/)
-
 [![sn-Matheus](https://github-readme-stats.vercel.app/api/top-langs/?username=sn-Matheus&hide=html&layout=compact&theme=highcontrast)](https://github.com/sn-Matheus)
 
 <br/>
