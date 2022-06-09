@@ -1,4 +1,4 @@
-<h3> 🦹‍♂️: &nbsp;About Me</h3>
+<h3> 🦹‍♂️ &nbsp;About Me</h3>
 
 - 👀 &nbsp; Exploring new technologies and developing software solutions.
 - 🎓 &nbsp; Studying **Analysis and systems development** in <a href="https://www.unicesumar.edu.br/home/">Unicesumar</a>.
