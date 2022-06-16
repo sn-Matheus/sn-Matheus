@@ -28,6 +28,7 @@
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+  ![Mysql](https://img.shields.io/badge/-Mysql-333333?style=flat&logo=mysql)
   
   
   
