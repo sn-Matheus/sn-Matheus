@@ -1,7 +1,7 @@
 <h3> 🦹‍♂️ &nbsp;About Me</h3>
 
 - 👀 &nbsp; Exploring new technologies and developing software solutions.
-- 🎓 &nbsp; Studying **Analysis and systems development** in <a href="https://www.unicesumar.edu.br/home/" target="_blank">Unicesumar</a>.
+- 🎓 &nbsp; Graduated **Analysis and systems development** in <a href="https://www.unicesumar.edu.br/home/" target="_blank">Unicesumar</a>.
 - 🌱 &nbsp; Learning more about **CSS3, HTML5, JavaScript, JAVA, PHP, Python, React, among others**.
 
 <p align="center">
